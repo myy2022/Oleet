@@ -4,6 +4,10 @@
 
 # 1st option
 
+## 2nd option
+
+### 3rd option
+
 - Implementations: Two Pointers/iterator(Sliding Window) Enumeration, Counting?
   - Array/String: string matching, Suffix Array
   - Hash Table: Hash Function, Rolling Hash
