@@ -2,6 +2,8 @@
 
 > Master leet in the most time and memory effecient manner.
 
+# 1st option
+
 - Implementations: Two Pointers/iterator(Sliding Window) Enumeration, Counting?
   - Array/String: string matching, Suffix Array
   - Hash Table: Hash Function, Rolling Hash
