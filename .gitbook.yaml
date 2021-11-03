@@ -2,4 +2,4 @@ root: ./
 
 structure:  
     # readme: ./toc/README.md
-    summary: ./toc/SUMMARY.md
+    summary: ./doc/summary.md
