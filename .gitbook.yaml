@@ -1,5 +1,5 @@
 root: ./
 
 structure:  
-    readme: ./toc/README.md
+    readme: ./toc/_.md
     summary: ./toc/SUMMARY.md
