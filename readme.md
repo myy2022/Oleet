@@ -1,12 +1,10 @@
 # Vision
 
-> Master leet in the most time and memory effecient manner.
+To master leet in the most time and memory effecient manner. Imagine a tree 
 
 # 1st option
 
-## 2nd option
-
-### 3rd option
+## Concept map
 
 - Implementations: Two Pointers/iterator(Sliding Window) Enumeration, Counting?
   - Array/String: string matching, Suffix Array
